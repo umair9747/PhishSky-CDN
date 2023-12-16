@@ -1,0 +1,22 @@
+name: Update Malicious URLs
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  update-malicious-urls:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get and echo malicious URLs
+        run: |
+          MALICIOUS_URLS=$(curl -sSf https://urlhaus.abuse.ch/downloads/text/)
+          echo "$MALICIOUS_URLS"
