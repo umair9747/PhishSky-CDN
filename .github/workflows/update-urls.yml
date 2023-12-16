@@ -26,6 +26,6 @@ jobs:
           git config --global user.email "umairnehri9747@gmail.com"
           git config --global user.name "Umair Nehri - GitHub Actions"
 
-          git add maliciousURLS.txt
+          git add maliciousURLs.txt
           git commit -m "Update malicious URLs [skip ci]"
           git push
