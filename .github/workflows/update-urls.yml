@@ -1,0 +1,27 @@
+name: Update Malicious URLs
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+
+jobs:
+  update-malicious-urls:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get malicious URLs
+        run: |
+          MALICIOUS_URLS=$(curl -sSf https://urlhaus.abuse.ch/downloads/text/)
+          echo "$MALICIOUS_URLS" > maliciousURLs.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "umairnehri9747@gmail.com"
+          git config --global user.name "Umair Nehri - GitHub Actions"
+
+          git add maliciousURLS.txt
+          git commit -m "Update malicious URLs [skip ci]"
+          git push
