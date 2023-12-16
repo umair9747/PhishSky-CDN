@@ -4,7 +4,7 @@ name: Update Malicious URLs
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '*/5 * * * *'  # Run every 2 minutes
+    - cron: '0 * * * *'  # Run every hour
   push:
     branches: [ "main" ]
   pull_request:
