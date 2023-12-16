@@ -2,7 +2,7 @@ name: Update Malicious URLs
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '*/2 * * * *'  # Run every 2 minutes
 
 jobs:
   update-malicious-urls:
