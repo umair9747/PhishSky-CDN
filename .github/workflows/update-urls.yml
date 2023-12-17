@@ -3,7 +3,6 @@ name: Update Malicious URLs
 # Controls when the workflow will run
 on:
   schedule:
-    # * is a special character in YAML so you have to quote this string
     - cron: '0 * * * *'  # Run every hour
   push:
     branches: [ "main" ]
@@ -18,10 +17,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Get malicious URLs
+      - name: Delete existing URL file
         run: |
+          rm -f maliciousURLs.txt
+
+      - name: Get and append malicious URLs
+        run: |
+          curl -sSf https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-ACTIVE.txt >> maliciousURLs.txt
           MALICIOUS_URLS=$(curl -sSf https://urlhaus.abuse.ch/downloads/text/)
-          echo "$MALICIOUS_URLS" > maliciousURLs.txt
+          echo "$MALICIOUS_URLS" >> maliciousURLs.txt
+
+      - name: Remove duplicate lines
+        run: |
+          awk '!seen[$0]++' maliciousURLs.txt > temp.txt
+          mv temp.txt maliciousURLs.txt
 
       - name: Commit and push changes
         run: |
