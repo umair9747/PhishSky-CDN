@@ -32,6 +32,11 @@ jobs:
           awk '!seen[$0]++' maliciousURLs.txt > temp.txt
           mv temp.txt maliciousURLs.txt
 
+      - name: Remove lines starting with #
+        run: |
+          awk '!/^#/' maliciousURLs.txt > temp.txt
+          mv temp.txt maliciousURLs.txt
+
       - name: Commit and push changes
         run: |
           git config --global user.email "umairnehri9747@gmail.com"
