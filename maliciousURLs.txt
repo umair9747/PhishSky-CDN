@@ -1,4 +1,39 @@
 
+http://59.89.67.206:49781/bin.sh
+http://117.254.97.134:34702/bin.sh
+http://117.214.203.203:57677/bin.sh
+http://42.238.237.13:42730/bin.sh
+http://117.209.42.2:44645/bin.sh
+http://117.248.170.251:52260/bin.sh
+http://112.238.131.186:47516/i
+http://117.208.221.238:50129/bin.sh
+http://123.12.17.235:41250/i
+http://117.198.13.6:48121/bin.sh
+http://125.46.207.120:50317/i
+http://117.206.72.7:45051/bin.sh
+http://117.215.208.98:57730/i
+http://222.137.236.113:51791/bin.sh
+http://59.97.127.57:45078/bin.sh
+http://59.88.11.134:59609/bin.sh
+http://42.224.137.140:55049/i
+http://39.90.146.77:35781/i
+http://59.93.17.169:40589/Mozi.a
+http://117.206.64.104:38355/bin.sh
+http://117.248.165.234:53651/bin.sh
+http://123.4.68.83:46259/Mozi.m
+http://1.70.132.188:36636/i
+http://117.194.172.174:55139/i
+http://59.93.228.213:58147/bin.sh
+http://115.55.45.183:57955/bin.sh
+http://112.249.89.248:53014/i
+http://117.253.203.62:37657/i
+http://117.242.201.55:50373/bin.sh
+http://61.3.183.234:41861/i
+http://59.183.13.232:58944/i
+http://222.141.101.237:47844/i
+http://112.238.131.186:47516/bin.sh
+http://117.245.36.126:34480/bin.sh
+http://223.9.127.202:44816/Mozi.m
 http://117.202.123.81:41517/Mozi.m
 http://117.211.210.30:38409/Mozi.m
 http://115.55.216.136:41837/Mozi.m
@@ -107823,25 +107858,6 @@ http://118.251.21.146:58970/bin.sh
 http://182.127.122.6:51651/bin.sh
 http://110.179.120.216:48258/bin.sh
 http://123.11.78.3:59236/i
-http://200.111.102.27:33164/Mozi.m
-http://42.226.70.28:40145/Mozi.m
-http://120.56.10.254:37121/Mozi.m
-http://121.186.161.74:38891/bin.sh
-http://176.193.204.236:56883/bin.sh
-http://176.85.94.251:55121/i
-http://124.234.179.146:36633/i
-http://182.116.86.163:52559/i
-http://78.189.127.127:39374/bin.sh
-http://123.12.221.119:60575/bin.sh
-http://193.233.132.197/Build_hLGMRX.exe
-http://78.9.100.207:46546/Mozi.m
-http://117.213.123.130:34403/Mozi.m
-http://115.50.57.91:55332/Mozi.m
-http://117.242.232.248:43738/Mozi.m
-http://123.11.78.3:59236/bin.sh
-http://42.239.240.62:42507/bin.sh
-http://124.234.179.146:36633/bin.sh
-http://222.136.157.222:39024/i
 http://109.235.7.161:39592/Mozi.m
 http://198.55.111.5/bash
 http://109.74.12.246/ftp
@@ -107877,7 +107893,7 @@ http://47.97.18.56:8000/jndi_marshalsec.py
 https://raw.githubusercontent.com/zev3n/Ubuntu-Gnome-privilege-escalation/main/CVE-2020-1612%5B6_7%5D_exploit.sh
 http://62.21.103.194/wtk/ckeditor/skins/.s/strscan.tgz
 https://www.blackhattoolz.com/licensing/deployment/Yellow%20Pages%20Scraper.exe
-https://www.blackhattoolz.com/licensing/updates/Tinder%20Bot.exe
+https://www.blackhattoolz.com/licensing/updates/Tweeter%20Traffic.exe
 http://188.113.68.227:35912/Mozi.m
 http://158.255.82.66:55583/Mozi.a
 http://20.205.11.156/d/test
@@ -107892,7 +107908,6 @@ http://185.215.113.66/11
 http://193.93.248.103/m.py
 http://193.93.248.103/p
 http://193.93.248.103/d
-https://bitkiselurunsiparis.com/GREENpackage.exe
 https://github.com/junlionserto/dfgdbfgndbdsfbhry/raw/main/momsstiflersdgjboigfnbio.exe
 https://github.com/junlionserto/dfbhdfioughfdsiu/raw/main/poolsdnkjfdbndklsnfgb.exe
 http://103.183.113.17/Update/Cheat.dll
@@ -107903,6 +107918,7 @@ http://20.205.11.156/d/xd.arm
 http://20.205.11.156/d/xd.arm7
 http://20.205.11.156/d/xd.mips64
 http://20.205.11.156/d/xd.arm5
+http://20.205.11.156/d/xd.mips
 http://20.205.11.156/d/xd.arm6
 http://20.205.11.156/d/xd.x86
 http://20.205.11.156/d/xd.m68k
@@ -107921,6 +107937,7 @@ http://103.116.52.207/condi.x86
 http://103.116.52.207/condi.ppc
 http://103.116.52.207/condi.sh4
 https://licocojambamarketplace.com/fwefwe324234234rgeffwehtrwyrhtrhtqwfqwd31443wefefwwfer3232fewwefwefwefqgrqwtherergqefwefqweqfwqf32fefwsda/uploads/lum
+https://licocojambamarketplace.com/fwefwe324234234rgeffwehtrwyrhtrhtqwfqwd31443wefefwwfer3232fewwefwefwefqgrqwtherergqefwefqweqfwqf32fefwsda/uploads/stlc
 http://162.219.216.183:34633/Mozi.m
 http://185.172.128.19/d21cbe21e38b385a41a68c5e6dd32f4c.exe
 http://106.254.250.98:9104/docs/x.rar
@@ -107938,6 +107955,7 @@ http://64.64.152.242:37540/i
 http://64.140.100.201:44920/i
 http://65.132.139.90:19944/i
 http://216.183.54.169:47530/i
+http://www.ojang.pe.kr/calendar/down/jeditor/jeditor.exe
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_r1.bmp
 http://45.64.128.244/aminer.gz
 http://45.64.128.244/install.tgz
@@ -107963,10 +107981,9 @@ http://ns2.timecheck.ug/ghjk.exe
 https://drive.google.com/uc?export=download&id=1xS8PRo01QBTXyW-SVqnnkvEJhdsDMyDt
 https://github.com/Sobaka212/n/releases/download/rr/DCRatBuild.exe
 https://github.com/Sobaka212/n/releases/download/rr/ce0b953269c74bc.exe
-http://opesjk.ug/net.exe
 http://opesjk.ug/ghjk.exe
+http://mistitis.ug/native.exe
 http://mistitis.ug/asdf.EXE
-http://mistitis.ug/ghjkl.exe
 http://opsdjs.ug/asdfg.exe
 http://opsdjs.ug/ghjk.exe
 http://hubvera.ac.ug/net.exe
@@ -108035,7 +108052,6 @@ http://2.180.35.231:56242/.i
 http://158.255.82.235:37881/Mozi.m
 http://185.172.128.32/hv.exe
 http://49.213.235.2:33727/.i
-http://185.16.38.38:555/24/b.jpg
 http://89.149.127.214:20636/.i
 http://185.172.128.32/ama.exe
 http://118.91.54.34:4000/Mozi.a
@@ -108080,6 +108096,7 @@ http://47.110.247.171/chdyz/chdyz.dll
 http://47.110.247.171/chdyz/chdyz.exe
 http://185.172.128.160/ma.exe
 http://185.172.128.160/hv.exe
+https://www.globallaborsupply.com/wp-admin/network/store.txt
 https://lti.cs.vt.edu/LTI_ruby/AV/Development/insertionSortPRO.js
 http://80.68.196.6/wei
 http://xiangshunjy.com/vendor/bin/NOBODY/clean.it
@@ -108097,6 +108114,7 @@ http://185.172.128.11/recovery.dat
 https://drive.google.com/uc?export=download&id=1sJM5T0KtLePibtV3kgaOUsSPnW3zOnOm
 https://github.com/CronusXd/Update/releases/download/programa/Universal.Cheat.All.Games.rar
 http://sos.vivi.sg/oto
+http://sos.vivi.sg/ns3.jpg
 https://drive.google.com/uc?export=download&id=1JMvlC342a-9KHHwQOfK1aticOwN34BxE
 http://46.238.231.91:32674/.i
 https://drive.google.com/uc?export=download&id=1lhNnWOyDntGqIbsYkxWGd32S5XftXVfH
@@ -108144,6 +108162,7 @@ https://bitbucket.org/!api/2.0/snippets/mounmeinlylo/bqAeer/5b924a1aa7fee2cb5137
 http://115.94.9.181:44048/.i
 http://90.68.161.157:4018/.i
 http://2.36.68.156:54788/.i
+http://39.126.203.159:4221/Mozi.m
 https://fetchdesignprint.co.za/wp-content/themes/twentytwenty/html.exe
 http://89.135.142.235:11226/.i
 http://y.shavsl.com/gif
@@ -108153,6 +108172,7 @@ http://stdown.dinju.com/housenetshare.exe
 http://113.214.56.231:24682/.i
 https://drive.google.com/uc?export=download&id=1JVqaQHW3wRdY09Sf69rSGgXMk_jl7lz5
 http://124.194.46.204:44528/.i
+https://resourceedge.org/new.exe
 https://drive.google.com/uc?id=1KAVUOwL0C1MMS_VTXOzW-cWQ7HWtO0El&export=download&authuser=0
 http://46.100.50.137:56504/.i
 http://diclegrup.org/YFRFklulPjtNVV25.bin
@@ -108164,7 +108184,6 @@ http://193.142.147.59/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/mozglue.dll
 http://193.142.147.59/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/softokn3.dll
 http://193.142.147.59/aN7jD0qO6kT5bK5bQ4eR8fE1xP7hL2vK/vcruntime140.dll
 https://bitbucket.org/workker300066/partners/downloads/Project_8.exe
-http://lostheaven.com.cn/wp-includes/ID3/Qmydsnl.dll
 https://docs.google.com/uc?export=download&id=1Uh8SquZ6Doag3ywzn7RpX0k5JfzE9r6D
 http://45.87.5.2:11503/.i
 https://bitbucket.org/samesaaa/123/downloads/TJeAjWEEeH.exe
@@ -108183,7 +108202,6 @@ http://217.114.43.149/arm5
 http://217.114.43.149/ppc
 http://217.114.43.149/sh4
 https://bitbucket.org/apilogic2023/api/downloads/Password_2022_Installer.rar
-https://qcollect.co.za/tauu/
 https://bitbucket.org/contore/update/downloads/Password_2022_Installer.rar
 https://servisaludocupacional.pe/public/f1.php
 http://98.14.183.227:64179/.i
@@ -108248,6 +108266,7 @@ http://185.215.113.66/pei.exe
 https://bitbucket.org/neonbatsv4/neonbats2/downloads/NeonBatsLoader.rar
 https://bitbucket.org/adobeofficial/adobeofficiall/downloads/Setup_EN_x64.zip
 http://185.215.113.66/npp.exe
+https://microsecurityupdate.com/KB824105-x86-ENU.exe
 http://185.215.113.66/1
 http://185.215.113.66/4
 http://185.215.113.66/3
@@ -108255,6 +108274,7 @@ http://185.215.113.66/pinf.exe
 http://185.215.113.84/3
 http://185.215.113.84/4
 http://185.215.113.84/1
+http://coadymarine.com/Admin/89wkR/
 https://bitbucket.org/lucianoeasy1/whythefuckareutryingtotrackthishttpdebuggerlol/raw/67c59c70dfb800fa2bf21b3217e2485221c20428/fund.exe
 http://194.38.23.2/sys.x86_64
 https://bitbucket.org/wfwfwe2/2/downloads/SoftInstall.rar
@@ -108297,7 +108317,6 @@ http://185.215.113.204/f84Nls2/Plugins/cred.dll
 http://181.13.133.18:54825/.i
 http://185.215.113.66/tpeinf.exe
 http://185.215.113.66/peinf.exe
-https://www.maxmoney.com/opencart/system/library/cache/.cache/loader.exe
 http://178.131.84.65:33117/.i
 http://212.5.200.222:38653/.i
 http://178.173.39.201:56059/.i
@@ -108306,6 +108325,7 @@ https://docs.google.com/uc?export=download&id=11mi132ptX9rjLBgeX4Ep7QabjI8v7urn
 http://1717.1000uc.com/Updates1/up.exe
 http://62.169.235.215:17145/.i
 http://airhobi.com/system/gbh/
+http://dhnconstrucciones.com.ar/wp-admin/Sm02ZsVDYWdoTb7rqL/
 http://106.246.224.219/.l/pty4?ddos
 http://bruiserbodies.com/images/vAj7fuqYe5y9.old/
 http://jobcity.com/img/RM0XpX/
@@ -108323,6 +108343,7 @@ http://sd-1684625-h00001.ferozo.net/PaginaMasVieja1321654/VXbZo/
 https://github.com/xmrig/xmrig/releases/download/v6.10.0/xmrig-6.10.0-linux-static-x64.tar.gz
 http://sd-1093121-h00002.ferozo.net/wp-content/YQ7IkSjIEP9r/
 http://www.chemsky.tn/64prPlDhbugztyb2Zl/xjvFXPUX7XeoPWTqSQ2/?i=1
+http://www.chemsky.tn/64prPlDhbugztyb2Zl/xjvFXPUX7XeoPWTqSQ2/
 http://sd-1684625-h00001.ferozo.net/PaginaMasVieja1321654/F1M5dBu8axuQkx0p8/
 http://106.246.224.219/.l/pty3?ddos
 http://103.85.95.5/v1/uploads/87DtpAEZULSccOn/
@@ -108351,11 +108372,13 @@ http://server.easysalepage.in.th/jsasynci/89205643570.xlsb
 https://www.TradeInsights.net/images/eqrKn0KrsN2NbhkpbE4fw0X/
 http://server.toeicswt.co.kr/svr_netchecker/server.asp?V_COMMAND=3002&V_PROGNAME=SJPTManagerLauncher.exe
 https://www.roofing.galacticleads.com/u6uuyrd6u.tar
+http://static.cz01.cn/setup/%E5%88%9D%E5%A6%86%E5%8A%A9%E6%89%8B.exe
 http://www.teknoarge.com/update/ana/Update.exe
 http://101.51.121.206/scripts/23s
 http://101.51.121.206/scripts/23
 https://drive.google.com/uc?export=download&id=12Ma_YvBmprTs6E_VkFNMWIkRNWSARQbW
 https://drive.google.com/uc?export=download&id=1O9jG3OQYEWNcoPTigwsCdbTfMvtfQyGJ
+https://www.saf-oil.ru/downloads/safmanager/safman_setup.exe
 http://219.68.245.35:21388/.i
 http://lastimaners.ug/zxcv.EXE
 http://lastimaners.ug/asdfg.exe
@@ -108404,9 +108427,13 @@ http://cfs7.blog.daum.net/upload_control/download.blog?fhandle=MEtnWE5AZnM3LmJsb
 http://194.145.227.21/ldr.sh
 https://docs.google.com/uc?export=download&id=1JPL-UoUydm5HypQM67uokyDdrbLbpxvW&revid=0B7zpIPRmOC5UbHpWclQ0cXdyTE5vWTRBYmNidzNHTGM3bzVrPQ
 https://travelwithmanta.co.za/r6x7x6rf.zip
+https://dl.packetstormsecurity.net/DoS/nemesy13.zip
+https://spaceframe.mobi.space-frame.co.za/agha25.tar
 https://test.typoten.com/rpez546n.rar
+http://360down7.miiyun.cn/2017/06/radbxnzdxbd.exe
 http://buscascolegios.diit.cl/txs9e9.zip
 https://buscascolegios.diit.cl/txs9e9.zip
+http://sainzim.co.za/blewthkht.rar
 http://download.caihong.com/gamewd/yhdl.exe
 https://jeffdahlke.com/css/WwYxH5cctn/
 http://www.moninediy.com/data/oVg/
@@ -108414,6 +108441,7 @@ http://cdaonline.com.ar/wp-admin/bXjesdj7W3meuh7iAtiURBsgh/
 https://jeffdahlke.com/css/bg4n3/
 https://abissnet.net/u0eukz.zip
 http://api-ms.cobainaja.id/hceioc.zip
+http://marksidfgs.ug/asdfg.exe
 http://yzkzixun.com/v2x2vexx.jpg
 http://karer.by/gfl7i3kp.rar
 http://cdaonline.com.ar/wp-admin/sites/ci6p05ScnuoNqsLQmeHm/
@@ -108430,7 +108458,6 @@ http://111.185.23.84:33424/Mozi.m
 http://111.185.23.84:33424/Mozi.a
 http://111.185.23.84:33424/.i
 http://reifenquick.de/Scripts/statement/ul397wfyb/
-http://www.reifenquick.de/Scripts/FILE/21mnqlvi/oz88535657v7rbazasyth9x8i/
 https://jeffdahlke.com/css/statement/sv8ah2oz31fj/
 http://www.reifenquick.de/Scripts/statement/ul397wfyb/
 https://jeffdahlke.com/css/DOC/kbc9dts71991684654644570io07lx5tws9zd0q/
@@ -108440,8 +108467,6 @@ http://exilum.com/homegrownorlando.com/Scan/5k2b2y4/
 https://jeffdahlke.com/css/fqcfrfvwflt3/
 http://posmicrosystems.com/OCT/05eo9y/yho7cb662821oxuq416ncv9m0g/
 http://yp.hnggzyjy.cn/Common/yz.vbs
-http://exilum.com/homegrownorlando.com/closed-section/additional-area/740331365-R4cXbyqTk/
-https://jeffdahlke.com/css/private_module/test_cloud/z3gjv_w4zyu545ts846/
 http://posmicrosystems.com/common_resource/3ZYNn88Sm_QdY9vaOqlXKYn_989270539154_n7FFnMeyjem/36660133916761_YjN3N510WqQNfYx0/
 http://www.reifenquick.de/Scripts/open-0627720493640-azQ24PfFjRm/guarded-space/gxkx9t42ra6yf-6x7uyx330389w/
 http://posmicrosystems.com/balance/t8dpeb54nchg/e474868660412vht8ymb7vn10qkc6j/
@@ -108454,7 +108479,6 @@ http://218.38.241.105:23421/.i
 http://cfs5.tistory.com/upload_control/download.blog?fhandle=YmxvZzcxMzYyQGZzNS50aXN0b3J5LmNvbTovYXR0YWNoLzAvMTQwMDAwMDAwMDAwLmV4ZQ%3D%3D&filename=crack-pro20.exe
 http://funletters.net/scenic/scenic1/jet.exe
 http://funletters.net/scenic/scenic1/sunset1.exe
-http://funletters.net/flowers/flowers1/smell-the-roses.exe
 https://raw.githubusercontent.com/fuzzbunch/fuzzbunch/master/payloads/Doublepulsar-1.3.1.exe
 http://marksidfgs.ug/asdf.EXE
 http://94.53.120.109/dusers.exe
@@ -108475,8 +108499,7 @@ http://185.12.78.161:36220/.i
 http://src1.minibai.com/uploads/thirdupload/5d3e8177e87cc.exe
 http://download.pdf00.cn/kszip/news/v1.0.7.31/news_01.exe
 https://codeload.github.com/MeteorAdminz/hidden-tear/zip/master
-http://download.doumaibiji.cn/doumai/news2/v1.0.7.01/news2_01.exe
-http://www.hseda.com/download/qt51crk.exe
+http://www.opolis.io/Opolis.exe
 http://www.starcountry.net/screenmate/cute/sm1302.zip
 http://unicorpbrunei.com/Products/Siplast/_vti_cnf/_vti_cnf.exe
 http://nerve.untergrund.net/releases/zorke_release/zorke_asciiverter_v1.00/zke-ascv.exe
